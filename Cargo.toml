@@ -5,3 +5,6 @@ authors = ["Giuseppe Lobraico <g.lobraico@gmail.com>"]
 
 [dependencies]
 byteorder = "1"
+tokio = "0.1"
+tokio-dns-unofficial = "*"
+chrono = "0.4"
